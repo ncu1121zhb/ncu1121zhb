@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ncu1121zhb
+- 👋 Hi, I’m Edwin
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on automation and data post-processing
